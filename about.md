@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Blake Newcomb
+permalink: /about-blake-newcomb/
 ---
-
-Some information about you!
+I am a student in England, and I love playing sports like baseball, rugby, football, basketball, surfing, snowboarding, and ice hockey!
 
 ### More Information
 
