@@ -1,8 +1,8 @@
 ---
-title: Untitled document
+title: Blake Template 2
 layout: post
 author: blake.newcomb
-permalink: /untitled-document/
+permalink: /blake-template-2/
 source-id: 10-ILm2K98MnL2ePZ-9ZKBzKd95WJrP5KflY8z9dA0tA
 published: true
 ---
