@@ -19,10 +19,12 @@ html {
 
 body {
 	background: url("http://www.wujinshike.com/data/wallpapers/135/WDF_1771251.jpg");
-        height: 100%;
-	background: center;
-        background: no-repeat;
-font: 18px/1.4 $helvetica
+       
+        background-repeat:no-repeat;
+
+        background-size:cover;
+
+	font: 18px/1.4 $helvetica
   color: red;
 }
 
